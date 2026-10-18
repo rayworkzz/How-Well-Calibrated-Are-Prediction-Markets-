@@ -78,7 +78,7 @@ Raw API responses are cached locally and never edited. API fields and rate limit
 
 ## Roadmap
 
-- [ ] **1. Setup:** repo scaffold, tooling, hypotheses committed
+- [* ] **1. Setup:** repo scaffold, tooling, hypotheses committed
 - [ ] **2. Polymarket ingestion:** resolved binary markets and price history, cached raw
 - [ ] **3. Kalshi ingestion:** unified schema in parquet/DuckDB, UTC timestamps, data-quality report
 - [ ] **4. Cleaning and snapshots:** filters, fixed-horizon snapshots with staleness cap, overround handling, leakage assertions, tests

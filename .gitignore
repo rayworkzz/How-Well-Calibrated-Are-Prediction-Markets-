@@ -6,3 +6,4 @@ __pycache__/
 data/raw/
 data/processed/
 private_notes_NOT_for_github.md
+*.egg-info/
